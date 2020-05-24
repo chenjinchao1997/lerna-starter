@@ -1,8 +1,14 @@
 # lerna sample
 
+npm install -g lerna lerna-changelog
+
 lerna init
 
 cd package/core
+
+npm init
+
+cd package/sub-a
 
 npm init
 
