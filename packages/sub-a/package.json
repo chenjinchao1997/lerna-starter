@@ -1,0 +1,19 @@
+{
+  "name": "sub-a",
+  "version": "1.0.0",
+  "description": "sub-module A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sub"
+  ],
+  "author": "chenjinchao",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core": "^1.0.0",
+    "rxjs": "^6.5.5"
+  }
+}
